@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img width="80%" height="80%" alt="Screenshot 2024-05-15 at 11 42 46 PM" src="https://github.com/dteimuno/osticket-prereqs/assets/169619672/dea09936-a271-4024-8711-26876d0d8ef8">
+<img width="1200"  alt="Screenshot 2024-05-15 at 11 42 46 PM" src="https://github.com/dteimuno/osticket-prereqs/assets/169619672/dea09936-a271-4024-8711-26876d0d8ef8">
 </p>
 <p>
 You must first create a resource Group in Azure to hold all the relevant resources that will  be used for this lab.To do so, Go to the Azure Portal, search for 'Resource  Groups', and  then  click on 'Resource Groups'. Enter a name for the resource group, select wherre you would like for resource group to be hosted( Region), and click review + create. Should you successfully do this you should see results like this below:
